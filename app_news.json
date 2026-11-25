@@ -1,0 +1,17 @@
+{
+  "latest": {
+    "versionCode": 6,
+    "versionName": "5.1",
+    "message": "New teachings, hymn books and fixes. Tap to download the update.",
+    "url": "https://example.com/TheSpiritualMeal-v5.1.apk"
+  },
+  "messages": [
+    {
+      "id": "2026-11-25-welcome",
+      "title": "Peace be with you",
+      "text": "Thank you for using The Spiritual Meal. Share the app with a friend today.",
+      "url": "",
+      "expires": "2027-01-31"
+    }
+  ]
+}
