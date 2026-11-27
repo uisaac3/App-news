@@ -1,0 +1,30 @@
+[
+ {
+  "title": "Churches of Christ sermons",
+  "tag": "YouTube",
+  "body": "Search YouTube for gospel sermons from churches of Christ.",
+  "url": "https://www.youtube.com/results?search_query=churches+of+Christ+sermons",
+  "btn": "Watch on YouTube"
+ },
+ {
+  "title": "A cappella hymns",
+  "tag": "YouTube",
+  "body": "Listen to congregational and a cappella hymn singing to learn the tunes.",
+  "url": "https://www.youtube.com/results?search_query=a+cappella+church+of+Christ+hymns",
+  "btn": "Listen on YouTube"
+ },
+ {
+  "title": "Bible study for beginners",
+  "tag": "YouTube",
+  "body": "Simple lessons that walk through the Bible book by book.",
+  "url": "https://www.youtube.com/results?search_query=Bible+study+lessons+for+beginners",
+  "btn": "Watch on YouTube"
+ },
+ {
+  "title": "Read the Bible online",
+  "tag": "Website",
+  "body": "BibleGateway lets you read and compare many translations, including the NKJV.",
+  "url": "https://www.biblegateway.com",
+  "btn": "Open BibleGateway"
+ }
+]
